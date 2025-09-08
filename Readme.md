@@ -18,7 +18,6 @@ Develop a single slot game using PHP that incorporates arrays, match expression,
 [markleyclassroom](https://github.com/MarkleyClassroom/phplessonChapter2)
 
 ## Screenshot of homepage
-# DO NOT FORGET TO UPDATE WITH ACTUAL SCREENSHOT PLEASE
 ![test screenshot](testScreenshot.png)
 ## Markdown Cheat Sheet
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
